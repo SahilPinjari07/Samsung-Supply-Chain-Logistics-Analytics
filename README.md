@@ -20,6 +20,7 @@ Star Schema Data Modeling
 🚚 Logistics and on-time delivery performance
 🏭 Production efficiency insights
 🤝 Supplier performance evaluation
+
 📊 KPIs Tracked
 Revenue & Profit Margin
 Inventory Turnover
@@ -27,11 +28,13 @@ Defect Rate
 On-Time Delivery %
 Year-over-Year (YoY) Growth
 Month-over-Month (MoM) Growth
+
 🔍 Insights Generated
 Identified key cost drivers and inefficiencies
 Highlighted delays in shipment and logistics
 Analyzed supplier performance for optimization
 Improved visibility into inventory health
+
 🗂️ Data Model
 Designed using Star Schema
 Integrated 8+ datasets including:
