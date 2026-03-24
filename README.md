@@ -61,14 +61,6 @@ This project is an end-to-end **Supply Chain & Logistics Analytics Dashboard** b
 
 ---
 
-## 📸 Dashboard Preview
-<!-- Add screenshots here -->
-<!-- Example:
-![Dashboard Screenshot](images/dashboard.png)
--->
-
----
-
 ## 💡 Learnings
 - Hands-on experience with real-world supply chain data  
 - Advanced DAX and data modeling techniques  
